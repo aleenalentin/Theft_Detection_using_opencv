@@ -1,0 +1,3 @@
+/home/aleena/Desktop/project06/build/CMakeFiles/rebuild_cache.dir
+/home/aleena/Desktop/project06/build/CMakeFiles/edit_cache.dir
+/home/aleena/Desktop/project06/build/CMakeFiles/main.dir
